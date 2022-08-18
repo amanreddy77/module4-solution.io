@@ -1,3 +1,3 @@
 # module4-sol
-https://github.com/amanreddy77/module4-solution.io.git
+https://github.com/amanreddy77/index.html
 
