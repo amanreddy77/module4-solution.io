@@ -1,3 +1,3 @@
 # module4-sol
-https://https://github.com/amanreddy77/module4-solution.io.git
+gh repo clone amanreddy77/module4-solution.io
 
